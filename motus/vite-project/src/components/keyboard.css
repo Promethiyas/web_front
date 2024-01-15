@@ -1,0 +1,12 @@
+.tab1{
+    margin-top: 5%;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    gap: 2px;
+}
+
+.biggertab{
+    flex-direction: column;
+    display: flex;
+}
